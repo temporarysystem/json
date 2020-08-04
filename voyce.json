@@ -1,4 +1,6 @@
 {
   "version": "1.0.0",
-  "homeImage": "https://images.unsplash.com/photo-1595732038548-c13e367c396b?ixlib=rb-1.2.1&auto=format&fit=crop&w=676&q=80"
+  "images": {
+    "homeImage": "https://images.unsplash.com/photo-1595732038548-c13e367c396b?ixlib=rb-1.2.1&auto=format&fit=crop&w=676&q=80"
+  }
 }
